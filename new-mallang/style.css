@@ -970,7 +970,7 @@ margin-top: 100%;
 
 .Services-para {
     transform: rotate(00deg);
-    /* opacity: 0; */
+     opacity: 1;
     width: auto;
     height: 19px;
     margin: 41px 0.3px -0.4px 1.7px;
